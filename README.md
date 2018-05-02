@@ -1,2 +1,2 @@
 # maze_ai
-Small Project On Maze Generation and Solcing
+Small Project On Maze Generation and Solving
